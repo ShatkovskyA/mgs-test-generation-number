@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="mgs-test-generation-number:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/mgs_test_generation_number_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="mgs-test-generation-number/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="mgs-test-generation-number" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
